@@ -2,6 +2,8 @@
 
 **Don't use it in production, just for fun.**
 
+![preview](./preview.gif)
+
 Super tiny virtual dom in 130 lines of code with events and JSX support. Tutorial is available at https://amorgunov.com/posts/2020-08-03-create-own-virtual-dom (in Russian).
 
 ## Install
